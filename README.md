@@ -6,5 +6,9 @@ O QUE EU APRENDI?
 2. Beneficios das maquinas virtuais na Azure
 3. Configuração de uma instância de Banco de Dados na Azure
 4. Construindo Arquiteturas no Azure 
-Criação de um grupo de recursos, com uma rede virtual 
+5. Criação de um grupo de recursos, com uma rede virtual
+6. Configuração de recursos e dimensionamentos em máquinas virtuais na Azure
+7. Conjutos de disponibilidades de máquinas virtuais
+8. Azure Functions e serviços do Azure
+
   
