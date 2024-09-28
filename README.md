@@ -10,5 +10,6 @@ O QUE EU APRENDI?
 6. Configuração de recursos e dimensionamentos em máquinas virtuais na Azure
 7. Conjutos de disponibilidades de máquinas virtuais
 8. Azure Functions e serviços do Azure
+9. Aprendendo e dominando tudo sobre o armazenamento na Azure.
 
   
