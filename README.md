@@ -11,5 +11,6 @@ O QUE EU APRENDI?
 7. Conjutos de disponibilidades de máquinas virtuais
 8. Azure Functions e serviços do Azure
 9. Aprendendo e dominando tudo sobre o armazenamento na Azure.
+10. Entendendo sobre Segurança e Identidade na Azure.
 
   
